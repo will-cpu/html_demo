@@ -1,0 +1,15 @@
+#mainDiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .itemDiv{
+    display: flex;
+    padding:10px;
+    background-color: antiquewhite;
+    margin-right: 5px;
+    width: 50%;
+    justify-content: center;
+  }
+
+}
